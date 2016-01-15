@@ -3,7 +3,7 @@ WaveDrom server
 
 From HTML
 
-```js
+```html
 <img src='http://img.wavedrom.com/g?
 {signal:[
   {name:'foo'}
@@ -13,7 +13,7 @@ From HTML
 
 From Markdown
 
-```js
+```md
 ![Alt text](http://img.wavedrom.com/g?
 {signal:[
   {name:'foo'}

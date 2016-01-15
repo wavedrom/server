@@ -1,5 +1,5 @@
 # server
-WaveDrom server
+Server side WaveDrom rendering
 
 From HTML
 

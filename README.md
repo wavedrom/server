@@ -26,3 +26,7 @@ From Markdown
   {name:'foo'}
 ]}
 )
+
+## Examples
+
+https://shields.io/

@@ -28,7 +28,7 @@ From Markdown
 <img src="https://svg.wavedrom.com/github/wavedrom/wavedrom/master/test/reg-vl.json5"/>
 
 ```html
-<img src="https://svg.wavedrom.com/{signal:[{wave:'0.P...'},{wave:'023450',data:'S E R V'}]}"/>
+<img src="https://svg.wavedrom.com/{signal:[{wave:'0.P.....'},{wave:'023450',data:'S E R V E R'}]}"/>
 ```
 
-<img src="https://svg.wavedrom.com/{signal:[{wave:'0.P...'},{wave:'023450',data:'S E R V'}]}"/>
+<img src="https://svg.wavedrom.com/{signal:[{wave:'0.P.....'},{wave:'023450',data:'S E R V E R'}]}"/>

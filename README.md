@@ -21,8 +21,10 @@ From Markdown
 )
 ```
 
+```
+<img src="https://svg.wavedrom.com/github/wavedrom/wavedrom/master/test/reg-vl.json5"/>
+```
+
 <img src="https://svg.wavedrom.com/github/wavedrom/wavedrom/master/test/reg-vl.json5"/>
 
-## Examples
-
-https://shields.io/
+<img  src="https://svg.wavedrom.com/{signal:{wave:'01234',data:'S E R V'}} "/>

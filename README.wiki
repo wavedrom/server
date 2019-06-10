@@ -1,7 +1,15 @@
 == WaveDrom from MediaWiki ==
 
+No spaces allowed in the image path.
+
 <source lang="wiki">
 [[Image:https://svg.wavedrom.com/{signal:[{wave:'0.P.....'},{wave:'02345230',data:['S','E','R','V','E','R']}]}]]
 </source>
 
 [[Image:https://svg.wavedrom.com/{signal:[{wave:'0.P.....'},{wave:'02345230',data:['S','E','R','V','E','R']}]}]]
+
+<source lang="html">
+<img src="https://svg.wavedrom.com/{signal:[{wave:'0.P.....'},{wave:'02345230',data:['S','E','R','V','E','R']}]}"/>
+</source>
+
+<img src="https://svg.wavedrom.com/{signal:[{wave:'0.P.....'},{wave:'02345230',data:['S','E','R','V','E','R']}]}"/>

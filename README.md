@@ -32,6 +32,3 @@ From Markdown
 ```
 
 <img src="https://svg.wavedrom.com/{signal:[{wave:'0.P.....'},{wave:'02345230',data:'S E R V E R'}]}"/>
-
-<img src="https://svg.wavedrom.com/
-{signal:[]}"/>

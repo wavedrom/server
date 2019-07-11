@@ -13,17 +13,17 @@ Server side WaveDrom rendering
 
 <img src="https://svg.wavedrom.com/{signal:[{wave:'0.P.....'},{wave:'02345230',data:'S E R V E R'}]}"/>
 
-### Render description from MD file right after the image inline
+### Render diagram from MD file with details right after the image inline
 
 ```
-<img src="https://svg.wavedrom.com/github/wavedrom/wavedrom/master/server/README.md/wave1"/>
+<img src="https://svg.wavedrom.com/github/wavedrom/wavedrom/master/server/README.md/mark1"/>
 ```
 
-<img src="https://svg.wavedrom.com/github/wavedrom/wavedrom/master/server/README.md/wave1"/>
+<img src="https://svg.wavedrom.com/github/wavedrom/wavedrom/master/server/README.md/mark1"/>
 
-```js
+<details><pre lang="js">
 {signal:[
   {wave: '0.P.....'},
   {wave: '02345230',data: 'S E R V E R'}
 ]}
-```
+</pre></details>
